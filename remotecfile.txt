@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+     printf("remote first line");
+     printf("remote second line");
+    
+}
